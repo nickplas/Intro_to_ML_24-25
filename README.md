@@ -12,6 +12,8 @@ Notebooks:
 
 * [Lab 1](notebooks/Lab_1.Data_generation_and_visualization_for_regression_and_classification.ipynb): Data Generation and Visualization for regression and classification ([solution](solved-notebooks/SOLVED-Lab_1.Data_generation_and_visualization_for_regression_and_classification.ipynb))
 
-* [Lab 2](notebooks/Lab-2.Polynomial_Regression_Bias_Variance.ipynb): Data Generation and Visualization for regression and classification 
+* [Lab 2](notebooks/Lab-2.Polynomial_Regression_Bias_Variance.ipynb): Data Generation and Visualization for regression and classification
+
+* [Lab 3](notebooks/Lab-3.LinearLogisticRegression.ipynb): Linear and Logistic Regression ([solution]())
 
 Challenges:
