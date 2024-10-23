@@ -16,4 +16,6 @@ Notebooks:
 
 * [Lab 3](notebooks/Lab-3.LinearLogisticRegression.ipynb): Linear and Logistic Regression ([solution](solved-notebooks/SOLVED-Lab_3_LinearLogisticRegression.ipynb))
 
+* [Lab 4](notebooks/Lab_4_RegressionAndRegularizations.ipynb) Regression and Regularizations ([solution]())
+
 Challenges:
