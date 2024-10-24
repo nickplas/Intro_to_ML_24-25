@@ -19,3 +19,5 @@ Notebooks:
 * [Lab 4](notebooks/Lab_4_RegressionAndRegularizations.ipynb) Regression and Regularizations ([solution]())
 
 Challenges:
+
+* [Challenge 0](challenges/challenge_zero.ipynb) Data Cleaning, Regularized Logistic Regression and Model Assessment
