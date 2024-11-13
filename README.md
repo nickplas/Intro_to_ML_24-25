@@ -20,6 +20,8 @@ Notebooks:
 
 * [Lab 5](notebooks/Lab_5_UnsupervisedLearning.ipynb): Unsupervised Learning ([solution](solved-notebooks/SOLVED-Lab_5_UnsupervisedLearning.ipynb))
 
+* [Lab 6](notebooks/Lab_6_DecisionTreeNaiveBayes.ipynb): Decision Tree and Naive Bayes ([solution]())
+
 Challenges:
 
 * [Challenge 0](challenges/challenge_zero.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment
