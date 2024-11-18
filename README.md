@@ -20,7 +20,7 @@ Notebooks:
 
 * [Lab 5](notebooks/Lab_5_UnsupervisedLearning.ipynb): Unsupervised Learning ([solution](solved-notebooks/SOLVED-Lab_5_UnsupervisedLearning.ipynb))
 
-* [Lab 6](notebooks/Lab_6_DecisionTreeNaiveBayes.ipynb): Decision Tree and Naive Bayes ([solution]())
+* [Lab 6](notebooks/Lab_6_DecisionTreeNaiveBayes.ipynb): Decision Tree and Naive Bayes ([solution](solved-notebooks/SOLVED_Lab_6_DecisionTreeNaiveBayes.ipynb))
 
 Challenges:
 
