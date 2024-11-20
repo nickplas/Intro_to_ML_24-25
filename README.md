@@ -22,6 +22,8 @@ Notebooks:
 
 * [Lab 6](notebooks/Lab_6_DecisionTreeNaiveBayes.ipynb): Decision Tree and Naive Bayes ([solution](solved-notebooks/SOLVED_Lab_6_DecisionTreeNaiveBayes.ipynb))
 
+* [Lab7](notebooks/Lab-7.KNNGaussianNaiveBayesTrees.ipynb) Classification with KNN, Trees and Gaussian Naive Bayes ([solution]()]
+
 Challenges:
 
 * [Challenge 0](challenges/challenge_zero.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment
