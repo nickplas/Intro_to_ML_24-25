@@ -22,7 +22,7 @@ Notebooks:
 
 * [Lab 6](notebooks/Lab_6_DecisionTreeNaiveBayes.ipynb): Decision Tree and Naive Bayes ([solution](solved-notebooks/SOLVED_Lab_6_DecisionTreeNaiveBayes.ipynb))
 
-* [Lab 7](notebooks/Lab-7.KNNGaussianNaiveBayesTrees.ipynb): Classification with KNN, Trees and Gaussian Naive Bayes ([solution]()]
+* [Lab 7](notebooks/Lab-7.KNNGaussianNaiveBayesTrees.ipynb): Classification with KNN, Trees and Gaussian Naive Bayes ([solution](solved-notebooks/SOLVED_Lab_7_KNNGaussianNaiveBayesTrees.ipynb)]
 
 Challenges:
 
