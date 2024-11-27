@@ -27,3 +27,5 @@ Notebooks:
 Challenges:
 
 * [Challenge 0](challenges/challenge_zero.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment
+
+* [Challenge 1](challenges/challenge-one.ipynb): Binary Classification with Unsupervised and Supervised Learning Techniques
