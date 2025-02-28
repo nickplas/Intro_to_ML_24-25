@@ -2,7 +2,13 @@
 
 Course for the Artificial Intelligence and Data Analytics Bachelor Degree - University of Trieste
 
-Fabio Anselmi, Alex Rodriguez, Milton Nicolas Plasencia Palacios (miltonnicolas.plasenciapalacios@phd.units.it)
+ - Fabio Anselmi 
+
+ - Alex Rodriguez 
+
+ - Milton Nicolas Plasencia Palacios (miltonnicolas.plasenciapalacios@phd.units.it)
+
+ - Francesco Tomba (francesco.tomba@phd.units.it)
 
 Notebooks: 
 
