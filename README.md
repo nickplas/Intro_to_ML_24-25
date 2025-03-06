@@ -12,6 +12,8 @@ Course for the Artificial Intelligence and Data Analytics Bachelor Degree - Univ
 
 Notebooks: 
 
+First semester (Mod. A):
+
 * [Lab 0](notebooks/Lab-0.IntroColab.ipynb): Introduction to Google Colab 
 
 * [Lab 0.1](notebooks/Lab-0.1.IntroPandas.ipynb): Introduction to Pandas
@@ -28,7 +30,11 @@ Notebooks:
 
 * [Lab 6](notebooks/Lab_6_DecisionTreeNaiveBayes.ipynb): Decision Tree and Naive Bayes ([solution](solved-notebooks/SOLVED_Lab_6_DecisionTreeNaiveBayes.ipynb))
 
-* [Lab 7](notebooks/Lab-7.KNNGaussianNaiveBayesTrees.ipynb): Classification with KNN, Trees and Gaussian Naive Bayes ([solution](solved-notebooks/SOLVED_Lab_7_KNNGaussianNaiveBayesTrees.ipynb)]
+* [Lab 7](notebooks/Lab-7.KNNGaussianNaiveBayesTrees.ipynb): Classification with KNN, Trees and Gaussian Naive Bayes ([solution](solved-notebooks/SOLVED_Lab_7_KNNGaussianNaiveBayesTrees.ipynb))
+
+Second semester (Mod. B):
+
+* [Lab 8](notebooks/Lab-8.Perceptron_and_SVM.ipynb): Perceptron and SVM (*solution to be published*)
 
 Challenges:
 
