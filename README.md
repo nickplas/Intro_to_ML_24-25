@@ -34,7 +34,7 @@ First semester (Mod. A):
 
 Second semester (Mod. B):
 
-* [Lab 8](notebooks/Lab-8.Perceptron_and_SVM.ipynb): Perceptron and SVM (*solution to be published*)
+* [Lab 8](notebooks/Lab-8.Perceptron_and_SVM.ipynb): Perceptron and SVM ([solution](solved-notebooks/SOLVED-Lab-8.Perceptron_and_SVM.ipynb))
 
 Challenges:
 
