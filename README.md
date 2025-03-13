@@ -36,6 +36,8 @@ Second semester (Mod. B):
 
 * [Lab 8](notebooks/Lab-8.Perceptron_and_SVM.ipynb): Perceptron and SVM ([solution](solved-notebooks/SOLVED-Lab-8.Perceptron_and_SVM.ipynb))
 
+* [Lab 8](notebooks/Lab-9.Kernel_Regression.ipynb): Perceptron and SVM ([solution](*to be*))
+
 Challenges:
 
 * [Challenge 0](challenges/challenge_zero.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment
