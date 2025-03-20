@@ -36,7 +36,9 @@ Second semester (Mod. B):
 
 * [Lab 8](notebooks/Lab-8.Perceptron_and_SVM.ipynb): Perceptron and SVM ([solution](solved-notebooks/SOLVED-Lab-8.Perceptron_and_SVM.ipynb))
 
-* [Lab 9](notebooks/Lab-9.Kernel_Regression.ipynb): Kernel Regression ([solution] (*to be published*))
+* [Lab 9](notebooks/Lab-9.Kernel_Regression.ipynb): Kernel Regression ([solution](solved-notebooks/SOLVED-Lab-9.Kernel_Regression.ipynb))
+
+* [Lab 10](notebooks/Lab-10.KernelPCA_KernelSVM.ipynb): Kernel SVM and Kernel PCA  ([solution] (*to be))
 
 Challenges:
 
