@@ -38,7 +38,7 @@ Second semester (Mod. B):
 
 * [Lab 9](notebooks/Lab-9.Kernel_Regression.ipynb): Kernel Regression ([solution](solved-notebooks/SOLVED-Lab-9.Kernel_Regression.ipynb))
 
-* [Lab 10](notebooks/Lab-10.KernelPCA_KernelSVM.ipynb): Kernel SVM and Kernel PCA  ([solution] (*to be))
+* [Lab 10](notebooks/Lab-10.KernelPCA_KernelSVM.ipynb): Kernel SVM and Kernel PCA  ([solution](solved-notebooks/SOLVED-Lab-10.KernelPCA_KernelSVM.ipynb))
 
 Challenges:
 
