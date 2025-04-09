@@ -42,6 +42,8 @@ Second semester (Mod. B):
 
 * [Lab 11](notebooks/Lab-11.Pytorch_NN.ipynb): Pytorch 101
 
+* [Lab 12](notebooks/Lab-12.Implicit_regularization.ipynb): Implicit regularization
+
 Challenges:
 
 * [Challenge 0](challenges/challenge_zero.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment
