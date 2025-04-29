@@ -44,6 +44,10 @@ Second semester (Mod. B):
 
 * [Lab 12](notebooks/Lab-12.Implicit_regularization.ipynb): Implicit regularization ([solution](solved-notebooks/SOLVED-Lab-12.Implicit_regularization.ipynb))
 
+* [Lab 13](notebooks/Lab-12.Autoencoders.ipynb): Implicit regularization (solution soon)
+
+
+
 Challenges:
 
 * [Challenge 0](challenges/challenge_zero.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment
