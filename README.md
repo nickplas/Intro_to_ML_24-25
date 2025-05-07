@@ -44,7 +44,9 @@ Second semester (Mod. B):
 
 * [Lab 12](notebooks/Lab-12.Implicit_regularization.ipynb): Implicit regularization ([solution](solved-notebooks/SOLVED-Lab-12.Implicit_regularization.ipynb))
 
-* [Lab 13](notebooks/Lab-13.Autoencoders.ipynb): Implicit regularization (solution soon)
+* [Lab 13](notebooks/Lab-13.Autoencoders.ipynb): Autoencoders 
+
+* [Lab 14](notebooks/Lab-14.style_transfer.ipynb): Style Transfer ([solution soon])
 
 
 
