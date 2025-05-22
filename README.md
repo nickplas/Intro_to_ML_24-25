@@ -46,7 +46,11 @@ Second semester (Mod. B):
 
 * [Lab 13](notebooks/Lab-13.Autoencoders.ipynb): Autoencoders 
 
-* [Lab 14](notebooks/Lab-14.style_transfer.ipynb): Style Transfer ([solution soon])
+* [Lab 14](notebooks/Lab-14.style_transfer.ipynb): Style Transfer ([solution](solved-notebooks/SOLVED-Lab-14.style_transfer.ipynb))
+
+* [Lab 15](notebooks/Lab-15.RL_Dynamic_programming.ipynb): RL 1: Dynamic programming  ([solution soon])
+
+
 
 
 
