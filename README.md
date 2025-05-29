@@ -50,8 +50,9 @@ Second semester (Mod. B):
 
 * [Lab 15](notebooks/Lab-15.RL_Dynamic_programming.ipynb): RL 1: Dynamic programming  ([solution](solved-notebooks/SOLVED-Lab-15.RL_Dynamic_programming.ipynb))
 
-* [Lab 16](notebooks/Lab-15.RL_QLearning.ipynb): RL 2: QLearning ([solution](solved-notebooks/SOLVED-Lab-15.RL_QLearning.ipynb))
+* [Lab 16](notebooks/Lab-16.RL_QLearning.ipynb): RL 2: QLearning ([solution](solved-notebooks/SOLVED-Lab-16.RL_QLearning.ipynb))
 
+* [Lab 17](notebooks/Lab-17.RL_DeepQLearning.ipynb): RL 2: QLearning ([solution](solved-notebooks/SOLVED-Lab-17.RL_DeepQLearning.ipynb))
 Challenges:
 
 * [Challenge 0](challenges/challenge_zero.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment
