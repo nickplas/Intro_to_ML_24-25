@@ -48,11 +48,9 @@ Second semester (Mod. B):
 
 * [Lab 14](notebooks/Lab-14.style_transfer.ipynb): Style Transfer ([solution](solved-notebooks/SOLVED-Lab-14.style_transfer.ipynb))
 
-* [Lab 15](notebooks/Lab-15.RL_Dynamic_programming.ipynb): RL 1: Dynamic programming  ([solution soon])
+* [Lab 15](notebooks/Lab-15.RL_Dynamic_programming.ipynb): RL 1: Dynamic programming  ([solution](solved-notebooks/SOLVED-Lab-15.RL_Dynamic_programming.ipynb))
 
-
-
-
+* [Lab 16](notebooks/Lab-15.RL_QLearning.ipynb): RL 2: QLearning ([solution](solved-notebooks/SOLVED-Lab-15.RL_QLearning.ipynb))
 
 Challenges:
 
